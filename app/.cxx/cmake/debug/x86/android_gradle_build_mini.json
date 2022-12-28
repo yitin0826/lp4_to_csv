@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\lp4_to_cha\\DecompNDK\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\lp4_to_cha\\DecompNDK\\app\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\lp4_to_cha\\DecompNDK\\app\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "geniiecgbt::@6890427a1f51a3e7e1df": {
+      "artifactName": "geniiecgbt",
+      "abi": "x86",
+      "output": "D:\\lp4_to_cha\\DecompNDK\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libgeniiecgbt.so",
+      "runtimeFiles": []
+    }
+  }
+}

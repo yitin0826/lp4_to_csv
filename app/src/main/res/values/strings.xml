@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenIIEcgBt</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="msg0_1">Wait for measure results</string>
+    <string name="msg0_2">from the ECG device...</string>
+    <string name="msg1_1">Bluetooth not opened!</string>
+    <string name="msg1_2">Please try again.</string>
+    <string name="msg2_1">The ECG device connected!</string>
+    <string name="msg3_1">The ECG device connection</string>
+    <string name="msg3_2">failed</string>
+    <string name="msg4_1">The ECG device not paired</string>
+    <string name="msg4_2">Please try again</string>
+    <string name="msg5_1">ECG electrodes may not</string>
+    <string name="msg5_2">be stuck tightly</string>
+    <string name="msg5_1b">I have checked it.</string>
+    <string name="msg5_2b">Please start recording.</string>
+    <string name="msg6_1">Electrode position</string>
+    <string name="msg6_2">may be error.</string>
+    <string name="msg6_1b">I have checked it.</string>
+    <string name="msg6_2b">Please start recording.</string>
+    <string name="msg7_1">Start ECG signal recording</string>
+    <string name="msg8_1">ECG file operation failed</string>
+    <string name="msg9_1">Your ECG file retrieved!</string>
+    <string name="msgA_1">ECG data downloading...</string>
+    <string name="msgB_1">Your ECG file retrieved!</string>
+    <string name="msgC_1">No ECG file found!</string>
+    <string name="msgD_1">The ECG file list got!</string>
+    <string name="msgE_1">The ECG file info. got!</string>
+    <string name="msgF_1">Connection close failed.</string>
+    <string name="msgG_1">The device time got!</string>
+    <string name="msgH_1">The device time set!</string>
+    <string name="msgI_1">The ECG file uploaded</string>
+    <string name="msgI_2">and analyzed!</string>
+    <string name="msgJ_1">The file not analyzed!</string>
+    <string name="msgK_1">The report got!</string>
+    <string name="msgL_1">File analysis failed!</string>
+
+    <string name="menu_item_set">Setting</string>
+    <string name="dlg_rst_name">Name:</string>
+    <string name="dlg_rst_date">Date:</string>
+    <string name="dlg_rst_rem_title">Friendly Reminders:</string>
+
+
+</resources>
